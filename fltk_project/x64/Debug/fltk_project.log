@@ -1,0 +1,4 @@
+﻿  MainWindow.cpp
+C:\Users\29037\Desktop\PFI\code\fltk_project\MainWindow.cpp(87,38): warning C4101: 'e': unreferenced local variable
+C:\Users\29037\Desktop\PFI\code\fltk_project\MainWindow.cpp(91,35): warning C4101: 'e': unreferenced local variable
+  fltk_project.vcxproj -> C:\Users\29037\Desktop\PFI\Code\x64\Debug\Chat_room.exe
